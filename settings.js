@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://shopifyxsendgrid.herokuapp.com/';
+exports.url = 'https://shopifyxsendgrid.herokuapp.com';
 
 exports.senderEmail = "coes@coes.co.uk";
 exports.senderName = "Coes";
@@ -14,4 +14,4 @@ exports.templateId = null;
 
 // receive an email when a new signup is confirmed
 exports.sendNotification = true;
-exports.notificationEmail = "muhajir@muhajirframe.com";
+exports.notificationEmail = "robert.moulding@coes.co.uk";
